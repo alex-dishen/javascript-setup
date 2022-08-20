@@ -1,11 +1,14 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-
 body {
-    font-family: sans-serif;
+    font-family:
+    system-ui,
+    -apple-system, /* Firefox supports this but not yet `system-ui` */
+    'Segoe UI',
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    'Apple Color Emoji',
+    'Segoe UI Emoji';
     background-color: white;
     color: black;
     height: 100vh;
