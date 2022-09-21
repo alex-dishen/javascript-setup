@@ -7,7 +7,7 @@ body {
 
     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-    font-size: 1.125rem;
+    font-size: 1.125rem; /*18px*/
 
     background-color: white;
     color: black;
@@ -26,7 +26,7 @@ main {}
 footer {
     text-align: center;
     padding: 10px;
-    font-size: 1.25rem;
+    font-size: 1.25rem; /*20px*/
     padding-bottom: 22px;
     margin-top: 40px;
 }
